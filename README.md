@@ -6,7 +6,7 @@ This repository contains the findings of a systematic literature review conducte
 
 ## Repository Contents
 
-- **PDF Document**: The notes from the reviewed articles.
+The notes from the reviewed articles.
 
 ---
 
