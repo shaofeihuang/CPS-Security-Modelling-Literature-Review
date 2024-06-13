@@ -6,7 +6,9 @@ This repository contains the findings of a systematic literature review conducte
 
 ## Repository Contents
 
-The notes from the reviewed articles.
+1. Literature survey notes
+2. CPS intrusion flow (diamond model) illustration
+3. CPS security modelling framework
 
 ---
 
