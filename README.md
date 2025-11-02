@@ -1,16 +1,20 @@
-# Cyber-Physical System (CPS) Security Modelling Systematic Literature Review (SLR) Repository
+# CPS Security Modelling: Systematic Literature Review (SLR)
 
 ## Overview
-
-This repository contains the findings of a systematic literature review conducted to understand the background, approaches, and results from various research articles focusing on security modelling in the context of Cyber-Physical Systems (CPS) cyber attacks. The primary objective of this review was to identify gaps in existing research and provide insights into potential areas for future investigation.
+This repository presents the findings of a systematic literature review on cybersecurity modelling in the context of Cyber-Physical Systems (CPS) attacks. It summarizes key research approaches, results, current gaps, and future research opportunities. The resource supports researchers, practitioners, and students aiming to advance CPS security modelling.
 
 ## Repository Contents
+- **CPS Security Modelling Literature Review Notes.xlsx:** Detailed reviews and notes from evaluated publications.
+- **Fig-CPS_Intrusion_Timeline.pdf:** Visual summary of intrusion timelines in CPS environments.
+- **Fig-SLR_Results.pdf:** Consolidated results from the systematic literature review.
+- **Fig-Security_Modelling_Framework.pdf:** Framework illustrating CPS security modelling concepts and approaches.
 
-1. Literature review notes
-2. Literature review results (summary)
-3. CPS intrusion timeline example
-4. CPS security modelling framework
+## Usage
+- Review the spreadsheet and visual materials for comprehensive knowledge synthesis.
+- Apply frameworks and findings for research, teaching, or solution development in CPS cybersecurity.
 
----
+## Contribution & Contact
+Contributions, suggestions, and feedback are welcome! Please open an issue via GitHub to discuss improvements or new directions.
 
-Thank you for your interest in our systematic literature review on security modelling for cyber-physical systems. We hope that this repository serves as a valuable resource for researchers, practitioners, and students interested in understanding and advancing the state of knowledge in this important field.
+## License
+Please refer to the repository for license information.
