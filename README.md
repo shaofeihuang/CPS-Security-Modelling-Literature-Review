@@ -3,7 +3,7 @@
 **Related Publication:** [Security Modelling for Cyber-Physical Systems: A Systematic Literature Review](https://arxiv.org/abs/2404.07527v3)
 
 ## Overview
-This repository presents the findings of a systematic literature review on cybersecurity modelling in the context of Cyber-Physical Systems (CPS) attacks. It summarizes key research approaches, results, current gaps, and future research opportunities. The resource supports researchers, practitioners, and students aiming to advance CPS security modelling.
+This repository presents the findings of a systematic literature review on cybersecurity modelling in the context of Cyber-Physical Systems (CPS). It summarises key research approaches, results, current gaps, and future research opportunities. The resource supports researchers, practitioners, and students aiming to advance CPS security modelling.
 ## Repository Contents
 - **CPS Security Modelling Literature Review Notes.xlsx:** Detailed reviews and notes from evaluated publications.
 - **Fig-CPS_Intrusion_Timeline.pdf:** Visual summary of intrusion timelines in CPS environments.
